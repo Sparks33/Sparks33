@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparks33&show_icons=true&locale=en" alt="sparks33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparks33&" alt="sparks33" /></p>
-
-<p><img src="https://img.shields.io/discord/782818581485846549?label=Discord&logo=discord&logoColor=white&style=flat-square"></p>
