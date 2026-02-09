@@ -8,17 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sparks33" alt="sparks33" /></a> </p>
 
-- 🔭 I’m currently working on **Orbi**
+- 🔭 I’m currently working on **Coming Soon**
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with [my YouTube channel](https://youtube.com/@quantomz)
+- 🤝 Here's [my YouTube channel](https://www.youtube.com/@sssparkyy)
+
+- 🌐 Visit [my Portfolio ](https://protfoli-chi.vercel.app/)
 
 - 💬 Ask me for **help regarding websites, apps & Discord Bots**
 
 - 📫 How to reach me **Friend me on Discord: `sparks.js` or Comment on my YouTube**
 
-- ⚡ Fun fact **I started learning my first language when I was 10 and my dream is to be a Tech Entrepreneur**
+- ⚡ Fun fact **I started learning my first language when I was 10 and I want to change lives using Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
