@@ -38,8 +38,17 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparks33&show_icons=true&locale=en&layout=compact" alt="sparks33" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparks33&show_icons=true&locale=en" alt="sparks33" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sparks33&" alt="sparks33" /></p>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sparks33&show_icons=true&locale=en&theme=transparent" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sparks33&layout=compact&locale=en&theme=transparent" />
+
+<br/>
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sparks33&theme=transparent" />
+
+</div>
