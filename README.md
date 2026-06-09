@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/explore/wall-e-stickers" align="center" style="height: 200px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUya3Azem5hdzc1c2c3ZXRkbm01aTY1bjN2OTUzYWFkcHk1a3hmaTU4aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3rgXBB98k23dXxT1du/200.gif" align="center" style="height: 200px">
 </div>
 <h1 align="center">Hi 👋, I'm Sparks</h1>
 <h3 align="center">A Self Learnt Developer and Tech Enthusiast</h3>
