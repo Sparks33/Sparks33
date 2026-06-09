@@ -17,7 +17,7 @@
 <p align="left">
 <a href="mailto:sparksdev.contact@gmail.com">
   <img align="center"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       src="https://www.svgrepo.com/show/14478/email.svg"
        alt="email"
        height="30"
        width="40" />
