@@ -39,7 +39,7 @@
 </p>
 
 ---
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sparks33&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
 
