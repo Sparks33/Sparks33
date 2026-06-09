@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:sparksdev.contact@gmail.com"><img align="center" src="https://www.svgrepo.com/show/484235/email-opened.svg" alt="email" height="30" width="40" /></a><a href="https://discord.com/users/782818581485846549" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="30" width="40" /></a>
+<a href="mailto:sparksdev.contact@gmail.com"><img align="center" src="https://www.svgrepo.com/show/484235/email-opened.svg" alt="email" height="30" width="40" /></a><a href="https://discord.com/users/782818581485846549" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="discord" height="30" width="40" /></a><a href="https://protfoli-chi.vercel.app/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/474472/portfolio.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Tools & Frameworks:</h3>
